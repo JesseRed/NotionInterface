@@ -1,0 +1,8 @@
+Date	Time	PatID	PatName	PatBirth	PatSex	Series	Images	Design	Refered	Directory	Archive	ArchDate
+20200115	09h10	0010995889	Retzlaff^Dorothee	19990122	F	9	640			1.3.12.2.1107.5.2.43.67036.30000020011508105073900000001	20200115_09h10_0010995889_dicom.zip	15.01.2020/AWP67036
+Archive	Run	AcqTime	SerNum	Sequence	Protocol	TE	TR	Scans
+20200115_09h10_0010995889_dicom.zip	1	09h13	 1	*fl2d1	localizer	5.00	4608	5
+20200115_09h10_0010995889_dicom.zip	2	09h15	 6	*tfl3d1_16ns	MPRAGE_Jena_BW230	2.07	2300.00	
+20200115_09h10_0010995889_dicom.zip	3	09h22	 7	epfid2d1_160	fmri_resting_state_high_spatial_res_SMS	33.60	1950.00	
+20200115_09h10_0010995889_dicom.zip	4	09h31	 8	ep_b5#1	ep2d_diff_54+6+1_SMS2	74.40	4057.00	
+20200115_09h10_0010995889_dicom.zip	5	09h34	 9	ep_b5#1	ep2d_diff_54+6+1_SMS2	74.40	4057.00	
